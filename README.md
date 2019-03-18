@@ -8,7 +8,7 @@ CLI application that uses Node.js and MySQL to check stores inventory and make p
 ```
 node bamazonCustomer.js
 ```
-()
+(https://raw.githubusercontent.com/chononhuu/Amazon-Node-SQL/master/gif/amazon%203.gif)
 
 2. Enter the id of the product that you would like to purchase then press enter.
 3. Enter the quantity of item that you would like to purchase then press enter.
