@@ -8,17 +8,17 @@ CLI application that uses Node.js and MySQL to check stores inventory and make p
 ```
 node bamazonCustomer.js
 ```
-(https://github.com/chononhuu/Amazon-Node-SQL/blob/master/gif/amazon%201.gif)
+![gif 1](https://github.com/chononhuu/Amazon-Node-SQL/blob/master/gif/amazon%201.gif)
 
 2. Enter the id of the product that you would like to purchase then press enter.
 3. Enter the quantity of item that you would like to purchase then press enter.
 
 
 4. If store does not have enough quantity order can not be processed.
-(https://github.com/chononhuu/Amazon-Node-SQL/blob/master/gif/amazon%202.gif)
+![gif 2](https://github.com/chononhuu/Amazon-Node-SQL/blob/master/gif/amazon%202.gif)
 
 5. If store has sufficient stock, reciept will be displayed.
-(https://github.com/chononhuu/Amazon-Node-SQL/blob/master/gif/amazon%203.gif)
+![gif 3](https://github.com/chononhuu/Amazon-Node-SQL/blob/master/gif/amazon%203.gif)
 
 ## Created with
 * MySQL
